@@ -7,3 +7,11 @@ First, learn what the hell a cubesat is!
 
 Now you've got the technical specification and background on cubesats. At this point, it's worth your while to take an hour or so and browse the other documents on the [cubesat developer's site](http://www.cubesat.org/index.php/documents/developers).
 
+To add:
+
+- Space environment
+   - Radiation
+   - Thermal
+   - Vacuum
+
+
