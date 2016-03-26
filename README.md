@@ -19,18 +19,19 @@ Third, you should know some things about the space environment:
 - https://en.wikipedia.org/wiki/Radiation_hardening
 - https://en.wikipedia.org/wiki/Outgassing
    - https://en.wikipedia.org/wiki/Materials_for_use_in_vacuum
-- _TODO: more links here on the space environment_
+- _TODO: more links here on the space environment, specifically thermal and power_
 
 Fourth, learn how we're going to have to test this thing:
 
 - [Launch Service Program ... CubeSat Requiremnents Document](http://www.nasa.gov/pdf/627972main_LSP-REQ-317_01A.pdf) is how NASA will test the CubeSat (and P-POD CubeSat dispenser) before hucking OreSat into space. Please read this carefully. 
 - There are more nitty gritty details in [GSFC-STD-7000](https://standards.nasa.gov/standard/gsfc/gsfc-std-7000). It isn't fun reading, but it tells you alot about what a launch provider cares about.
 
-To add:
+## Part Two: Geting Involved!
 
-- Space environment
-   - Radiation
-   - Thermal
-   - Vacuum
+There are a _lot_ of things to be done for OreSat. They range from the technical (thermal simulations, board layout, RF communications, embedded Linux, firmware, machining, solar power systems, space deployables, radiation hardening, etc) to the day-to-day (fundraising, project management, etc). 
+
+We meet weekly at PSU - please see the [Portland State Aerospace Soceity's Google Calendar](http://psas.pdx.edu/join/) for our current meeting times and locations.
+
+Otherwise, contact us at `info@psas.pdx.edu` in order to learn about what's going on and how to get involved!
 
 
