@@ -11,7 +11,7 @@ First, learn about CubeSats:
 
 Second, you should know about the nasa programs we hope to use:
 
-- The [NASA CubeSat Launch Initiative (CSLI)](http://www.nasa.gov/directorates/heo/home/CubeSats_initiative) is the program we apply for inorder to get launched by NASA through the ELaNa iniative.
+- The [NASA CubeSat Launch Initiative (CSLI)](http://www.nasa.gov/directorates/heo/home/CubeSats_initiative) is the program we apply for in order to get launched by NASA through the ELaNa initiative.
 - The [Educational Launch of Nanosatellites (ELaNa)](http://www.nasa.gov/mission_pages/smallsats/elana/index.html) is an initiative of the NASA's Launch Services Program. ELaNa schedules and flies CubeSats that were accespted by CSLI. You don't get to choose how or when you get into space, but eventually, they'll get you there.
 
 Third, you should know some things about the space environment:
@@ -23,15 +23,14 @@ Third, you should know some things about the space environment:
 
 Fourth, learn how we're going to have to test this thing:
 
-- [Launch Service Program ... CubeSat Requiremnents Document](http://www.nasa.gov/pdf/627972main_LSP-REQ-317_01A.pdf) is how NASA will test the CubeSat (and P-POD CubeSat dispenser) before hucking OreSat into space. Please read this carefully. 
-- There are more nitty gritty details in [GSFC-STD-7000](https://standards.nasa.gov/standard/gsfc/gsfc-std-7000). It isn't fun reading, but it tells you alot about what a launch provider cares about.
+- [Launch Service Program ... CubeSat Requirements Document](http://www.nasa.gov/pdf/627972main_LSP-REQ-317_01A.pdf) is how NASA will test the CubeSat (and P-POD CubeSat dispenser) before hucking OreSat into space. Please read this carefully. 
+- There are more nitty gritty details in [GSFC-STD-7000](https://standards.nasa.gov/standard/gsfc/gsfc-std-7000). It isn't fun reading, but it tells you a lot about what a launch provider cares about.
 
-## Part Two: Geting Involved!
+## Part Two: Getting Involved!
 
-There are a _lot_ of things to be done for OreSat. They range from the technical (thermal simulations, board layout, RF communications, embedded Linux, firmware, machining, solar power systems, space deployables, radiation hardening, etc) to the day-to-day (fundraising, project management, etc). 
+There are a _lot_ of things to be done for OreSat. They range from the technical (thermal simulations, board layout, RF communications, embedded Linux, firmware, machining, solar power systems, space deployables, radiation hardening, etc) to the day-to-day (fund-raising, project management, etc). 
 
-We meet weekly at PSU - please see the [Portland State Aerospace Soceity's Google Calendar](http://psas.pdx.edu/join/) for our current meeting times and locations.
+We meet weekly at PSU - please see the [Portland State Aerospace Society's Google Calendar](http://psas.pdx.edu/join/) for our current meeting times and locations.
 
 Otherwise, contact us at `info@psas.pdx.edu` in order to learn about what's going on and how to get involved!
-
 
