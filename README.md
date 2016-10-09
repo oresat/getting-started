@@ -7,7 +7,7 @@ OreSat is an educational CubeSat project based out of various Oregon educational
 First, learn about CubeSats:
 
 - Read the [Wikipedia page on Cubesats](https://en.wikipedia.org/wiki/CubeSat). This is a surprisingly good summary of CubeSats.
-- CAREFULLY read the [CubeSat Design specification (CDS)](http://www.cubesat.org/images/developers/cds_rev13_final2.pdf). As we design OreSat, we'll constantly refer to this design spec so understanding it deeply is a good idea.
+- CAREFULLY read the [CubeSat Design specification (CDS)](https://static1.squarespace.com/static/5418c831e4b0fa4ecac1bacd/t/56e9b62337013b6c063a655a/1458157095454/cds_rev13_final2.pdf). As we design OreSat, we'll constantly refer to this design spec so understanding it deeply is a good idea.
 
 Second, you should know about the nasa programs we hope to use:
 
