@@ -34,3 +34,7 @@ There are a _lot_ of things to be done for OreSat. They range from the technical
 
 Otherwise, contact us at `info@psas.pdx.edu` in order to learn about what's going on and how to get involved!
 
+
+Two papers by Bryan Klofas that discusses communications systems, but also touches on many of the mission details, and some of the failures. 
+https://www.klofas.com/papers/CommSurvey-Bryan_Klofas.pdf
+https://www.klofas.com/papers/Klofas_Communications_Survey_2009-2012.pdf
