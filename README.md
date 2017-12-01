@@ -22,6 +22,10 @@ Fourth, you should know some things about the space environment:
 - https://en.wikipedia.org/wiki/Radiation_hardening
 - https://en.wikipedia.org/wiki/Outgassing
    - https://en.wikipedia.org/wiki/Materials_for_use_in_vacuum
+   
+- [Bryan Klofas](https://www.klofas.com/papers/) a ground station engineer from [Planet Labs](https://www.planet.com/) wrote two papers discussing communications systems used on CubeSat missions which also touch on mission details and some of the failures experienced.
+   - [Missions from the 1999 beginnings to 2008](https://www.klofas.com/papers/CommSurvey-Bryan_Klofas.pdf)
+   - [Missions from 2009 to 2012](https://www.klofas.com/papers/Klofas_Communications_Survey_2009-2012.pdf)
 - _TODO: more links here on the space environment, specifically thermal and power_
 
 ## Part Four: Getting Involved!
@@ -34,7 +38,3 @@ There are a _lot_ of things to be done for OreSat. They range from the technical
 
 Otherwise, contact us at `info@psas.pdx.edu` in order to learn about what's going on and how to get involved!
 
-
-Two papers by Bryan Klofas that discusses communications systems, but also touches on many of the mission details, and some of the failures. 
-https://www.klofas.com/papers/CommSurvey-Bryan_Klofas.pdf
-https://www.klofas.com/papers/Klofas_Communications_Survey_2009-2012.pdf
