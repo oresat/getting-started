@@ -7,6 +7,7 @@ Designing, building, and testing CubeSats isn't easy, but it's OMG we're going t
 ## Part One: The Basics!
 
 - Read the [Wikipedia page on Cubesats](https://en.wikipedia.org/wiki/CubeSat). This is a surprisingly good summary of CubeSats.
+- Read NASA's CubeSat Launch Initiative [CubeSat 101](https://www.nasa.gov/content/cubesat-launch-initiative-resources) document.
 - CAREFULLY read the [CubeSat Design specification (CDS)](https://static1.squarespace.com/static/5418c831e4b0fa4ecac1bacd/t/56e9b62337013b6c063a655a/1458157095454/cds_rev13_final2.pdf). As we design OreSat, we'll constantly refer to this design spec so understanding it deeply is a good idea.
 - The [NASA CubeSat Launch Initiative (CSLI)](http://www.nasa.gov/directorates/heo/home/CubeSats_initiative) is the program we applied to  for in order to get launched by NASA through the ELaNa initiative.
 - The [Educational Launch of Nanosatellites (ELaNa)](http://www.nasa.gov/mission_pages/smallsats/elana/index.html) is an initiative of the NASA's Launch Services Program. ELaNa schedules and flies CubeSats that were accespted by CSLI. We haven't been manifested yet, but when we do, it'll be through ELaNa.
