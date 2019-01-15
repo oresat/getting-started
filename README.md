@@ -8,7 +8,8 @@ Designing, building, and testing CubeSats isn't easy, but it's OMG we're going t
 
 - Read the [Wikipedia page on Cubesats](https://en.wikipedia.org/wiki/CubeSat). This is a surprisingly good summary of CubeSats.
 - Read NASA's CubeSat Launch Initiative [CubeSat 101](https://www.nasa.gov/content/cubesat-launch-initiative-resources) document.
-- CAREFULLY read the [CubeSat Design specification (CDS)](https://static1.squarespace.com/static/5418c831e4b0fa4ecac1bacd/t/56e9b62337013b6c063a655a/1458157095454/cds_rev13_final2.pdf). As we design OreSat, we'll constantly refer to this design spec so understanding it deeply is a good idea.
+- Read the [CubeSat Design specification (CDS)](https://static1.squarespace.com/static/5418c831e4b0fa4ecac1bacd/t/56e9b62337013b6c063a655a/1458157095454/cds_rev13_final2.pdf). As we design OreSat, we'll constantly refer to this design spec so understanding it deeply is a good idea.
+- Skim the [NanoRacks Interface Control Document (ICD)](http://nanoracks.com/wp-content/uploads/NanoRacks-CubeSat-Deployer-NRCSD-Interface-Definition-Document.pdf). Nanoracks is most likely going to be our launch provider, so this is their version of the CDS. 
 - The [NASA CubeSat Launch Initiative (CSLI)](http://www.nasa.gov/directorates/heo/home/CubeSats_initiative) is the program we applied to  for in order to get launched by NASA through the ELaNa initiative.
 - The [Educational Launch of Nanosatellites (ELaNa)](http://www.nasa.gov/mission_pages/smallsats/elana/index.html) is an initiative of the NASA's Launch Services Program. ELaNa schedules and flies CubeSats that were accespted by CSLI. We haven't been manifested yet, but when we do, it'll be through ELaNa.
 
@@ -29,13 +30,21 @@ Fourth, you should know some things about the space environment:
    - [Missions from 2009 to 2012](https://www.klofas.com/papers/Klofas_Communications_Survey_2009-2012.pdf)
 - _TODO: more links here on the space environment, specifically thermal and power_
 
-## Part Four: Getting Involved!
+## Part Four: Tools!
+
+- We use Git and Github. Make yourself a Github login and become familiar with Git.
+- MEs please install [SolidWorks](https://www.solidworks.com/). 
+   - Please clone (NOT fork!) the [OreSat Structure repo](https://github.com/oresat/oresat-structure) and begin playing around with SolidWorks.
+ME thermal tools also include ANSYS.
+- EEs please install [EAGLE CAD](https://www.autodesk.com/products/eagle/overview). EE RF tools also include HFSS.
+   - Please clone any of the electrical repos in the [OreSat organization](https://github.com/oresat/) to get started.
+
+## Part Five: Getting Involved!
 
 There are a _lot_ of things to be done for OreSat. They range from the technical (thermal simulations, board layout, RF communications, embedded Linux, firmware, machining, solar power systems, space deployables, radiation hardening, etc) to the day-to-day (fund-raising, project management, etc). 
 
-- We meet weekly at PSU - please see the [Portland State Aerospace Society's Google Calendar](http://psas.pdx.edu/join/) for our current meeting times and locations.
+- We meet weekly at PSU - please see the [Portland State Aerospace Society's Google Calendar](http://psas.pdx.edu/join/) for our current meeting times and locations. Usually OreSat meets Fridays from 2:00pm - 5:00pm in PSU's Engineering Building in room 91.
 - All of our designs are open source, and located at <http://github.com/oresat>. Go take a gander and see what's there.
 - All of our shared documents that aren't on Github are in Google Drive. They're mostly logistical in nature. Once you start volunteering with us, we'll share that folder with you.
 
 Otherwise, contact us at `info@psas.pdx.edu` in order to learn about what's going on and how to get involved!
-
