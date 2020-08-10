@@ -13,7 +13,7 @@ Please email <oresat@pdx.edu> if you have any questions about ramping up or gett
 - Understand the [Educational Launch of Nanosatellites (ELaNa)](http://www.nasa.gov/mission_pages/smallsats/elana/index.html) is an initiative of the NASA's Launch Services Program. ELaNa schedules and flies CubeSats that were accespted by CSLI. We haven't been manifested yet, but when we do, it'll be through ELaNa.
 - Read NASA's [CubeSat 101](https://www.nasa.gov/sites/default/files/atoms/files/nasa_csli_cubesat_101_508.pdf) document. This is a _great_ but very detailed introduction to CubeSats. Feel free to skim over parts that don't apply to you.
 - Mechanical Engineers: Read the [CubeSat Design specification (CDS)](https://static1.squarespace.com/static/5418c831e4b0fa4ecac1bacd/t/56e9b62337013b6c063a655a/1458157095454/cds_rev13_final2.pdf). As we design OreSat, we'll constantly refer to this design spec so understanding it deeply is a good idea.
-- Mechanical Engineers:  Read the [NanoRacks Interface Definition Document (IDD)](http://nanoracks.com/wp-content/uploads/NanoRacks-CubeSat-Deployer-NRCSD-Interface-Definition-Document.pdf). Nanoracks is most likely going to be our launch provider, so this is their version of the CDS. 
+- Mechanical Engineers:  Read the [NanoRacks Interface Definition Document (IDD)](https://nanoracks.com/wp-content/uploads/NR-NRCSD-S0003-Rev-NanoRacks-CubeSat-Deployer-IDD-Copyright-Stamped.pdf). Nanoracks is most likely going to be our launch provider, so this is their version of the CDS. 
 
 ## Part Two: OreSat!
 
