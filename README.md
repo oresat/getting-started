@@ -15,7 +15,7 @@ Please email <oresat@pdx.edu> if you have any questions about ramping up or gett
 
 ## Part Two: OreSat!
 
-- It's _really_ out of date now, but please do read the [OreSat 2016 CubeSat Launch Initiative proposal](http://oresat.org/mission/oresat-2016-csli-application-r6-PUBLIC.pdf). Ignore all the technology descriptions and timeline; those are all out of date. Read mostly for the overview of what we promised OreSat would do.
+- It's _really_ out of date now, but please do read the [OreSat 2016 CubeSat Launch Initiative proposal](http://oresat.github.io/mission/oresat-2016-csli-application-r6-PUBLIC.pdf). Ignore all the technology descriptions and timeline; those are all out of date. Read mostly for the overview of what we promised OreSat would do.
 - Look over the [OreSat Block Diagram](https://github.com/oresat/oresat.github.io/blob/master/pub/OreSat_CS0_Block_Diagram.pdf). It'll raise more questions than it answers, but you'll get a sense for how much _stuff_ is crammed in our little 2U CubeSat.
 
 ## Part Three: Tools!
