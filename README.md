@@ -15,18 +15,49 @@ Please email <oresat@pdx.edu> if you have any questions about ramping up or gett
 
 ## Part Two: OreSat!
 
-- It's _really_ out of date now, but please do read the [OreSat 2016 CubeSat Launch Initiative proposal](http://oresat.github.io/mission/oresat-2016-csli-application-r6-PUBLIC.pdf). Ignore all the technology descriptions and timeline; those are all out of date. Read mostly for the overview of what we promised OreSat would do.
-- Look over the [OreSat Block Diagram](https://github.com/oresat/oresat.github.io/blob/master/pub/OreSat_CS0_Block_Diagram.pdf). It'll raise more questions than it answers, but you'll get a sense for how much _stuff_ is crammed in our little 2U CubeSat.
+- It's _really_ out of date now, but please do read the [OreSat 2016 CubeSat Launch Initiative proposal](http://oresat.github.io/mission/oresat-2016-csli-application-r6-PUBLIC.pdf). Ignore all the technology descriptions and timeline; those are all out of date. Ignore the CFC description, that _way_ out of date. Read mostly for the overview of what we promised OreSat would do.
+- Look over the [OreSat Block Diagram](https://github.com/oresat/oresat.github.io/blob/master/pub/OreSat_CS0_Block_Diagram.pdf). It'll raise more questions than it answers, but you'll get a sense for how much _stuff_ is crammed in our CubeSats.
 
-## Part Three: Tools!
+## Part Three: Onboarding!
 
-- We use Slack to communicate. Get yourself on PSAS' slack channel by emailing <oresat+join@pdx.edu>.
-- We use Git and Github. Make yourself a Github login, ask to join the OreSat organization, and become familiar with Git.
-- MEs please install [SolidWorks](https://www.solidworks.com/). 
-   - Please clone (NOT fork!) the [OreSat Structure repo](https://github.com/oresat/oresat-structure) and begin playing around with SolidWorks. ME thermal tools also include Thermal Desktop and ANSYS.
-- EEs please install [EAGLE CAD](https://www.autodesk.com/products/eagle/overview). EE RF tools also include HFSS.
-   - Please clone any of the electrical repos in the [OreSat organization](https://github.com/oresat/) to get started.
-- Firmware and software usually requires a Linux installation
+As an open source organization, our collaboration tools really define how we operate. Everyone, regardless of discipline, should:
+
+- Email <oresat+join@pdx.edu> and ask to get involved. You'll be sent a Google Form to fill out, where we'll ask you how you heard about us and you'll have to agree to our open source IP and community policies.
+- We use Slack to communicate: make sure to download Slack and bug us to get you on Slack if we haven't already.
+- We use a shared Google Drive for most of OreSat's internal documentation. Bug us to share the drive with you if we haven't already.
+- We use Git and [Github](https://github.com/). Make yourself a Github login, ask to join the OreSat organization, and become familiar with Git.
+
+If you're doing technical work for OreSat, you have more homework to do: 
+
+### Mechanical Engineers
+
+- Subscribe to all of the mechanical-y Slack channels, like #oresat-structure.
+- Install [SolidWorks](https://www.solidworks.com/). If you can't get a student license, bug us on Slack and we'll get you one.
+- Please clone (NOT fork!) the [OreSat Structure repo](https://github.com/oresat/oresat-structure) and begin playing around with SolidWorks. 
+- If you're interested in Thermal, subscribe to #oresat-thermal and we'll tell you how to install CRT's Thermal Desktop.
+- Start attending the mechanical team meetings, which are usually Sunday 10:00am!
+
+### Electrical Engineers
+
+- Subscribe to all the electrical-y Slack channels, like #oresat-bus, #oresat-comms, etc.
+- Install [KiCAD](https://www.kicad.org/). Note that we're using the "nightly" build (v5.99), not the stable. If you've never used it, that's fine, start using it! Ramping up on KiCAD is a great first step for all things Oresat.
+- Clone the electrical system repos (batteries, solar, C3, etc) in the [OreSat organization](https://github.com/oresat/) to get all of our current designs.
+- Start attending the electrical team meetings, which are usually Sunday noon!
+
+### Computer Engineers (Firmware)
+
+- Subscribe to all the firmware-y Slack channels, like #oresat-firmware, #oresat-software, and #oresat-bus.
+- You'll need a Linux install (either on your laptop or in a VM).
+- Clone #oresat-firmware in the [OreSat organization](https://github.com/oresat/) and follow the README instructions to download tools and get set up for writing firmware!
+- Start attending the firmware team meetings, which are usually Fridays at 5:30pm!
+
+### CS Majors (Software)
+
+- Subscribe to all the software-y Slack channels, like #oresat-software, #oresat-server, etc.
+- You'll need a Linux install (either on your laptop or in a VM).
+- Clone #oresat-software and all of the other repos you need in the [OreSat organization](https://github.com/oresat/).
+- Start attending the software team meetings, which are usually Tuesdays at 4:30pm!
+
 
 ## Part Four: Getting Involved!
 
