@@ -33,9 +33,10 @@ If you're doing technical work for OreSat, you have more homework to do:
 
 - Subscribe to all of the mechanical-y Slack channels, like #oresat-structure.
 - Install [SolidWorks]. If you can't get a student license, bug us on Slack and we'll get you one.
-- Please clone (NOT fork!) the [OreSat Structure repo] and begin playing around with SolidWorks. 
+- Please clone (NOT fork!) the [OreSat Structure repo] and begin playing around with SolidWorks. Specific instructions on the [Wiki]
 - If you're interested in Thermal, subscribe to #oresat-thermal and we'll tell you how to install CRT's Thermal Desktop.
 - Start attending the mechanical team meetings, which are usually Sunday 10:00am!
+- Take a look at our [walkthrough] of OreSat CAD on youtube, CAD How-to's are included here too.
 
 ### Electrical Engineers
 
@@ -94,3 +95,5 @@ Otherwise, contact us at `oresat@pdx.edu` in order to learn about what's going o
 [Portland State Aerospace Society's Google Calendar]:http://psas.pdx.edu/join/
 [OreSat Block Diagram]:https://github.com/oresat/oresat.github.io/blob/master/pub/OreSat_CS0_Block_Diagram.pdf
 [OreSat 2016 CubeSat Launch Initiative proposal]:http://oresat.github.io/mission/oresat-2016-csli-application-r6-PUBLIC.pdf
+[walkthrough]:https://www.youtube.com/watch?v=Bzgoayj21Vc&list=PLErHfvfxHlH09auH2yG9p9x0MbHu5K8v4
+[Wiki]:https://github.com/oresat/oresat-structure/wiki
