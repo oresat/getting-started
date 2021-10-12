@@ -51,12 +51,16 @@ If you're doing technical work for OreSat, you have more homework to do:
 - Clone #oresat-firmware in the [OreSat GitHub organization] and follow the README instructions to download tools and get set up for writing firmware!
 - Start attending the firmware team meetings, which are usually Fridays at 5:30pm!
 
-### CS Majors (Software)
+### Computer Science Majors (Software)
 
 - Subscribe to all the software-y Slack channels, like #oresat-software, #oresat-server, etc.
 - You'll need a Linux install (either on your laptop or in a VM).
-- Clone #oresat-software and all of the other repos you need in the [OreSat GitHub organization].
-- Start attending the software team meetings, which are usually Tuesdays at 4:30pm!
+- Software has a lot of repos!
+  - Generally all embedded OreSat Linux repo names follow the _oresat-linux\*_ or the _oresat-\*-software_ pattern.
+  - All UniClOGS (our ground station) repos names follow the _uniclogs-\*_ pattern.
+  - Support project repo(s): [CANopen-monitor]
+- We try to make use of GitHub Issue for all software repos, so check out the Issues tab in all the software repos. The general rule is if no one is assigned to the Issue, no one is working on it.
+- Start attending the software team meetings, which are usually Tuesdays at 4:00pm!
 
 
 ## Part Four: Getting Involved!
@@ -84,6 +88,7 @@ Otherwise, contact us at `oresat@pdx.edu` in order to learn about what's going o
 <!-- GitHub Links -->
 [OreSat GitHub organization]:https://github.com/oresat/
 [OreSat Structure repo]:https://github.com/oresat/oresat-structure
+[CANopen-monitor]:https://github.com/oresat/CANopen-monitor
 
 <!-- OreSat Links -->
 [Portland State Aerospace Society's Google Calendar]:http://psas.pdx.edu/join/
