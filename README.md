@@ -8,14 +8,15 @@ Please email <oresat@pdx.edu> if you have any questions about ramping up or gett
 
 ## Part One: The Basics!
 
-- Read the [Wikipedia page on Cubesats]. This is a surprisingly good summary of CubeSats. OreSat0 is a 1U CubeSat, and OreSat is a 2U CubeSat.
+- Read the [Wikipedia page on Cubesats]. This is a surprisingly good summary of CubeSats. OreSat0, Oregon's first satellite, is a 1U CubeSat, and OreSat0.5 and OreSat1 are a 2U CubeSats.
 - Read a bit about the [NASA CubeSat Launch Initiative (CSLI)], which is the program we applied to in 2016 to get launched by NASA through the [Educational Launch of Nanosatellites (ELaNa)](http://www.nasa.gov/mission_pages/smallsats/elana/index.html) initiative.
 - Skim over NASA's [CubeSat 101] document. This is a _great_ but very detailed introduction to CubeSats. Later, you should come back and read this in full.
 - Skim over the [CubeSat Design specification (CDS)]. As we design OreSat, we'll constantly refer to this design spec.
 
 ## Part Two: OreSat!
 
-- It's _really_ out of date now, but please do read the [OreSat 2016 CubeSat Launch Initiative proposal]. Ignore all the technology descriptions and timeline; those are all out of date. Ignore the CFC description, that _way_ out of date. Read mostly for the overview of what we promised OreSat would do.
+- It's _really_ out of date now, but please skim the [OreSat 2016 CubeSat Launch Initiative proposal]. Ignore all the technology descriptions and timeline; those are all out of date. Ignore the CFC description, that _way_ out of date. Read mostly for the overview of what we promised OreSat would do, and why we're doing this.
+- Watch this 20 minute video from the 2021 open Source CubeSat Workshop on the [technical overview](https://www.youtube.com/watch?v=f-3HAv4VBUc) of OreSat. Do NOT worry if you don't understand everything, just get the jist of the OreSat architecture and all its various parts.
 - Look over the [OreSat Block Diagram]. It'll raise more questions than it answers, but you'll get a sense for how much _stuff_ is crammed in our CubeSats.
 
 ## Part Three: Onboarding!
@@ -31,12 +32,14 @@ If you're doing technical work for OreSat, you have more homework to do:
 
 ### Mechanical Engineers
 
-- Subscribe to all of the mechanical-y Slack channels, like #oresat-structure.
-- Install [SolidWorks]. If you can't get a student license, bug us on Slack and we'll get you one.
-- Please clone (NOT fork!) the [OreSat Structure repo] and begin playing around with SolidWorks. Specific instructions on the [Wiki]
+- Subscribe to all of the mechanical-y Slack channels, like #oresat-structure and #psas-onshape
 - If you're interested in Thermal, subscribe to #oresat-thermal and we'll tell you how to install CRT's Thermal Desktop.
-- Start attending the mechanical team meetings, which are usually Sunday 10:00am!
-- Take a look at our [walkthrough] of OreSat CAD on youtube, CAD How-to's are included here too.
+- We use [Onshape CAD](https://www.onshape.com/) for mechanical CAD. It's not perfect, but it fits our needs super well. Ask if you want to know why we use it instead of SolidWorks.
+- Start attending the mechanical team meetings, which are usually Sundays at 10:00am!
+- Finally, we have some great videos to watch:
+    - Watch this 20 minute video from the 2021 open Source CubeSat Workshop on the [OreSat Mechanical Design](https://youtu.be/0-Tlg6fqUgA?t=25) by Marvin!
+    - [CAD with Hayden](https://www.youtube.com/watch?v=OYUZ3eE1vc8): A walk through of the Summer 2022 work by Hayden (and Zach!) on moving OreSat CAD from SolidWorks to OnShape. 
+    - [CAD with Catie Series](https://www.youtube.com/watch?v=Bzgoayj21Vc) - it's old, but goes through everything on Oresat from back in 2020.
 
 ### Electrical Engineers
 
@@ -44,6 +47,7 @@ If you're doing technical work for OreSat, you have more homework to do:
 - Install [KiCAD]. Note that we're using the "nightly" build (v5.99), not the stable. If you've never used it, that's fine, start using it! Ramping up on KiCAD is a great first step for all things Oresat.
 - Clone the electrical system repos (batteries, solar, C3, etc) in the [OreSat GitHub organization] to get all of our current designs.
 - Start attending the electrical team meetings, which are usually Sunday noon!
+- Watch this 20 minute video from the 2021 open Source CubeSat Workshop on [OreSat Electrical Power System](https://youtu.be/n3-lD2CVcbM?t=16) by David!
 
 ### Computer Engineers (Firmware)
 
@@ -51,6 +55,8 @@ If you're doing technical work for OreSat, you have more homework to do:
 - You'll need a Linux install (either on your laptop or in a VM).
 - Clone #oresat-firmware in the [OreSat GitHub organization] and follow the README instructions to download tools and get set up for writing firmware!
 - Start attending the firmware team meetings, which are usually Fridays at 5:30pm!
+- Watch this 20 minute video from the 2021 open Source CubeSat Workshop on [OreSat Firmware and Software Architecture] (https://youtu.be/rwz4FqyghRo?t=21)
+- If you're interested in communications and ground station design, watch this 20 minute video from the 2021 open Source CubeSat Workshop on [OreSat Communication Protocols and Ground Stations](https://www.youtube.com/watch?v=mC4On8ECt2E).
 
 ### Computer Science Majors (Software)
 
@@ -62,6 +68,8 @@ If you're doing technical work for OreSat, you have more homework to do:
   - Support project repo(s): [CANopen-monitor]
 - We try to make use of GitHub Issue for all software repos, so check out the Issues tab in all the software repos. The general rule is if no one is assigned to the Issue, no one is working on it.
 - Start attending the software team meetings, which are usually Tuesdays at 4:00pm!
+- Watch this 20 minute video from the 2021 open Source CubeSat Workshop on [OreSat Firmware and Software Architecture] (https://youtu.be/rwz4FqyghRo?t=21)
+- If you're interested in communications and ground station design, watch this 20 minute video from the 2021 open Source CubeSat Workshop on [OreSat Communication Protocols and Ground Stations](https://www.youtube.com/watch?v=mC4On8ECt2E).
 
 
 ## Part Four: Getting Involved!
@@ -84,6 +92,7 @@ Otherwise, contact us at `oresat@pdx.edu` in order to learn about what's going o
 
 <!-- Tool Links -->
 [KiCAD]:https://www.kicad.org/
+[OnShape]: 
 [SolidWorks]:https://www.solidworks.com/
 
 <!-- GitHub Links -->
