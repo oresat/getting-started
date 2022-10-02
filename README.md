@@ -55,7 +55,7 @@ If you're doing technical work for OreSat, you have more homework to do:
 - You'll need a Linux install (either on your laptop or in a VM).
 - Clone #oresat-firmware in the [OreSat GitHub organization] and follow the README instructions to download tools and get set up for writing firmware!
 - Start attending the firmware team meetings, which are usually Fridays at 5:30pm!
-- Watch this 20 minute video from the 2021 open Source CubeSat Workshop on [OreSat Firmware and Software Architecture] (https://youtu.be/rwz4FqyghRo?t=21)
+- Watch this 20 minute video from the 2021 open Source CubeSat Workshop on [OreSat Firmware and Software Architecture](https://youtu.be/rwz4FqyghRo?t=21)
 - If you're interested in communications and ground station design, watch this 20 minute video from the 2021 open Source CubeSat Workshop on [OreSat Communication Protocols and Ground Stations](https://www.youtube.com/watch?v=mC4On8ECt2E).
 
 ### Computer Science Majors (Software)
@@ -68,7 +68,7 @@ If you're doing technical work for OreSat, you have more homework to do:
   - Support project repo(s): [CANopen-monitor]
 - We try to make use of GitHub Issue for all software repos, so check out the Issues tab in all the software repos. The general rule is if no one is assigned to the Issue, no one is working on it.
 - Start attending the software team meetings, which are usually Tuesdays at 4:00pm!
-- Watch this 20 minute video from the 2021 open Source CubeSat Workshop on [OreSat Firmware and Software Architecture] (https://youtu.be/rwz4FqyghRo?t=21)
+- Watch this 20 minute video from the 2021 open Source CubeSat Workshop on [OreSat Firmware and Software Architecture](https://youtu.be/rwz4FqyghRo?t=21)
 - If you're interested in communications and ground station design, watch this 20 minute video from the 2021 open Source CubeSat Workshop on [OreSat Communication Protocols and Ground Stations](https://www.youtube.com/watch?v=mC4On8ECt2E).
 
 
