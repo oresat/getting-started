@@ -54,7 +54,7 @@ If you're doing technical work for OreSat, you have more homework to do:
 - Subscribe to all the firmware-y Slack channels, like #oresat-firmware, #oresat-software, and #oresat-bus.
 - You'll need a Linux install (either on your laptop or in a VM).
 - Clone #oresat-firmware in the [OreSat GitHub organization] and follow the README instructions to download tools and get set up for writing firmware!
-- Start attending the firmware team meetings, which are usually Fridays at 5:30pm!
+- Start attending the firmware team meetings, which are usually Sundays at 2:00pm!
 - Watch this 20 minute video from the 2021 open Source CubeSat Workshop on [OreSat Firmware and Software Architecture](https://youtu.be/rwz4FqyghRo?t=21)
 - If you're interested in communications and ground station design, watch this 20 minute video from the 2021 open Source CubeSat Workshop on [OreSat Communication Protocols and Ground Stations](https://www.youtube.com/watch?v=mC4On8ECt2E).
 - Finally, if you're doing firmware see [Getting Started in firmware](https://github.com/oresat/oresat-firmware).
