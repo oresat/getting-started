@@ -71,7 +71,7 @@ If you're doing technical work for OreSat, you have more homework to do:
 - Start attending the software team meetings, which are usually Tuesdays at 4:00pm!
 - Watch this 20 minute video from the 2021 open Source CubeSat Workshop on [OreSat Firmware and Software Architecture](https://youtu.be/rwz4FqyghRo?t=21)
 - If you're interested in communications and ground station design, watch this 20 minute video from the 2021 open Source CubeSat Workshop on [OreSat Communication Protocols and Ground Stations](https://www.youtube.com/watch?v=mC4On8ECt2E).
-
+- Please read through the [software intern onboarding guide](https://github.com/oresat/oresat-software-onboarding)!
 
 ## Part Four: Getting Involved!
 
