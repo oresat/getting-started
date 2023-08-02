@@ -44,7 +44,7 @@ If you're doing technical work for OreSat, you have more homework to do:
 ### Electrical Engineers
 
 - Subscribe to all the electrical-y Slack channels, like #oresat-bus, #oresat-comms, etc.
-- Install [KiCAD]. Note that we're using the "nightly" build (v5.99), not the stable. If you've never used it, that's fine, start using it! Ramping up on KiCAD is a great first step for all things Oresat.
+- Install [KiCAD]. Note that we're using the latest KiCad stable build. Ramping up on KiCAD is a great first step for all things Oresat.
 - Clone the electrical system repos (batteries, solar, C3, etc) in the [OreSat GitHub organization] to get all of our current designs.
 - Start attending the electrical team meetings, which are usually Sunday noon!
 - Watch this 20 minute video from the 2021 open Source CubeSat Workshop on [OreSat Electrical Power System](https://youtu.be/n3-lD2CVcbM?t=16) by David!
