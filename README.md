@@ -61,17 +61,17 @@ If you're doing technical work for OreSat, you have more homework to do:
 
 ### Computer Science Majors (Software)
 
-- Subscribe to all the software-y Slack channels, like #oresat-software, #oresat-server, etc.
+- Subscribe to all the software-y Slack channels, like #oresat-software, #oresat-testing, #oresat-uniclogs, etc.
 - You'll need a Linux install (either on your laptop or in a VM).
 - Software has a lot of repos!
   - Generally all embedded OreSat Linux repo names follow the _oresat-linux\*_ or the _oresat-\*-software_ pattern.
   - All UniClOGS (our ground station) repos names follow the _uniclogs-\*_ pattern.
-  - Support project repo(s): [CANopen-monitor]
+  - Support project repo(s): [SavvyCAN](https://github.com/collin80/SavvyCAN)
 - We try to make use of GitHub Issue for all software repos, so check out the Issues tab in all the software repos. The general rule is if no one is assigned to the Issue, no one is working on it.
-- Start attending the software team meetings, which are usually Tuesdays at 4:00pm!
+- Start attending the software team meetings, which are usually Sundays at 4:00pm!
 - Watch this 20 minute video from the 2021 open Source CubeSat Workshop on [OreSat Firmware and Software Architecture](https://youtu.be/rwz4FqyghRo?t=21)
 - If you're interested in communications and ground station design, watch this 20 minute video from the 2021 open Source CubeSat Workshop on [OreSat Communication Protocols and Ground Stations](https://www.youtube.com/watch?v=mC4On8ECt2E).
-- Please read through the [software intern onboarding guide](https://github.com/oresat/oresat-software-onboarding)!
+- Please read through the [software intern onboarding guide](https://github.com/oresat/oresat-software-docs)!
 
 ## Part Four: Getting Involved!
 
