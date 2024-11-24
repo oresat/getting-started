@@ -17,7 +17,7 @@ Please email <oresat@pdx.edu> if you have any questions about ramping up or gett
 
 - It's _really_ out of date now, but please skim the [OreSat 2016 CubeSat Launch Initiative proposal]. Ignore all the technology descriptions and timeline; those are all out of date. Ignore the CFC description, that _way_ out of date. Read mostly for the overview of what we promised OreSat would do, and why we're doing this.
 - Watch this 20 minute video from the 2021 open Source CubeSat Workshop on the [technical overview](https://www.youtube.com/watch?v=f-3HAv4VBUc) of OreSat. Do NOT worry if you don't understand everything, just get the jist of the OreSat architecture and all its various parts.
-- Look over the [OreSat Block Diagram]. It'll raise more questions than it answers, but you'll get a sense for how much _stuff_ is crammed in our CubeSats.
+- Look over the [OreSat Block Diagram](https://drive.google.com/file/d/1crq5eg1g2U3-BLZJRUnqu_Eka9oKfZFJ/view?usp=sharing). It'll raise more questions than it answers, but you'll get a sense for how much _stuff_ is crammed in our CubeSats.
 
 ## Part Three: Onboarding!
 
