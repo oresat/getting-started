@@ -44,20 +44,25 @@ If you're doing technical work for OreSat, you have more homework to do:
 ### Electrical Engineers
 
 - Subscribe to all the electrical-y Slack channels, like #oresat-bus, #oresat-comms, etc.
-- Install [KiCAD]. Note that we're using the latest KiCad stable build. Ramping up on KiCAD is a great first step for all things Oresat.
-- Clone the electrical system repos (batteries, solar, C3, etc) in the [OreSat GitHub organization] to get all of our current designs.
+- Install [KiCAD](https://www.kicad.org/). Note that we're using the latest KiCad stable build. Ramping up on KiCAD is a great first step for all things Oresat.
+- Get to know [Git](https://git-scm.com/) and [Github](https://github.com/).
+- Clone the electrical system repos (batteries, solar, C3, etc) that seem interesting from our [OreSat GitHub] to get all of our current designs.
+   - Eventually let one of our admins know you're ready to contibute and we'll add you to the Github organization so you can push.
 - Start attending the electrical team meetings, which are usually Sunday noon!
+- If you can stand it, watch [Andrew's OreSat technical overview](https://www.youtube.com/watch?v=L4ZFTi2mGLw) to BroncoSpace in Spring 2024.
 - Watch this 20 minute video from the 2021 open Source CubeSat Workshop on [OreSat Electrical Power System](https://youtu.be/n3-lD2CVcbM?t=16) by David!
+
 
 ### Computer Engineers (Firmware)
 
 - Subscribe to all the firmware-y Slack channels, like #oresat-firmware, #oresat-software, and #oresat-bus.
-- You'll need a Linux install (either on your laptop or in a VM).
+- You'll need a Linux install (either on your laptop, in VM, or in WSL).
+- Note that we're using the latest KiCad stable build. Ramping up on KiCAD is a great first step for all things Oresat.
 - Clone #oresat-firmware in the [OreSat GitHub organization] and follow the README instructions to download tools and get set up for writing firmware!
+- See [Getting Started in firmware](https://github.com/oresat/oresat-firmware).
 - Start attending the firmware team meetings, which are usually Sundays at 2:00pm!
 - Watch this 20 minute video from the 2021 open Source CubeSat Workshop on [OreSat Firmware and Software Architecture](https://youtu.be/rwz4FqyghRo?t=21)
 - If you're interested in communications and ground station design, watch this 20 minute video from the 2021 open Source CubeSat Workshop on [OreSat Communication Protocols and Ground Stations](https://www.youtube.com/watch?v=mC4On8ECt2E).
-- Finally, if you're doing firmware see [Getting Started in firmware](https://github.com/oresat/oresat-firmware).
 
 ### Computer Science Majors (Software)
 
