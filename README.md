@@ -9,7 +9,7 @@ Please email <oresat@pdx.edu> if you have any questions about ramping up or gett
 ## Part One: The Basics!
 
 - Read the [Wikipedia page on Cubesats]. This is a surprisingly good summary of CubeSats. OreSat0, Oregon's first satellite, is a 1U CubeSat, and OreSat0.5 and OreSat1 are a 2U CubeSats.
-- Read a bit about the [NASA CubeSat Launch Initiative (CSLI)], which is the program we applied to in 2016 to get launched by NASA through the [Educational Launch of Nanosatellites (ELaNa)](http://www.nasa.gov/mission_pages/smallsats/elana/index.html) initiative.
+- Read a bit about the [NASA CubeSat Launch Initiative (CSLI)], which is the program we applied to in 2016 to get launched by NASA through the [Educational Launch of Nanosatellites (ELaNa)](https://science.nasa.gov/category/missions/small-satellite-missions/elana/) initiative.
 - Skim over NASA's [CubeSat 101] document. This is a _great_ but very detailed introduction to CubeSats. Later, you should come back and read this in full.
 - Skim over the [CubeSat Design specification (CDS)]. As we design OreSat, we'll constantly refer to this design spec.
 
