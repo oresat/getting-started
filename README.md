@@ -1,3 +1,5 @@
+<img src="./images/logo-large.png" alt="OreSat Logo" width="200px" style="margin:0 auto;"/>
+
 # Getting Started on OreSat
 
 **OreSat** is Oregon's first satellite! It's a state-wide educational CubeSat project being run out of Portland State University, along with many of Oregon's other educational institutions including University of Oregon and Oregon State University.
